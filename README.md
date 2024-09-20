@@ -1,2 +1,2 @@
 # Ex-Python
- Exercícios propostos poelo gustavo durante o Curso de Python Gratuito
+ Exercícios propostos pelo Gustavo durante o Curso de Python Gratuito
